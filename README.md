@@ -1,4 +1,4 @@
-# Automatic_Facebook
+# Automatic_Facebook_Ads_Performance
 Link: https://docs.google.com/spreadsheets/d/1kAqEMz4EIE9QYZTWCxFPt-VL7BEuWWv--tIgyItnVQw/edit?usp=sharing
 An automatic system to visualize the effectiveness of running Facebook ads for Marketing purpose using Google Sheet:
 
